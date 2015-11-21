@@ -13,3 +13,20 @@ $("#addsDiv").on("click", function() {
 $("#addsButton").dblclick(function(){
     $(this).remove("#addsDiv"));
 });
+
+var whateverObj = []
+ 
+};
+
+$.each("whateverObj").on("mouseover", function() {
+    $(this).parents().unbind("mouseleave");
+    
+
+    
+});
+
+
+
+
+    
+
